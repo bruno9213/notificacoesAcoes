@@ -21,3 +21,7 @@ Required libs:
 Known bugs:
 - Não verifica se o email está na forma correta
 - Outras verificações de inputs
+
+Changes (v1.3.2):
+- Menos uso de recursos
+- Refactoring
