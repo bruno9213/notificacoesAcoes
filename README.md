@@ -2,7 +2,8 @@
 
 Notificações de Ações
 
-Created by: Bruno Ferreira | v1.3.2
+Criado por: Bruno Ferreira
+Versão: 1.3.2
 
 App com GUI baseada em Tkinter que permite enviar notificações para o Desktop e Email quando uma certa Ação/Índice sai de um intervalo de valor definido na interface.
 Permite verificar repetidamente.
